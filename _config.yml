@@ -1,7 +1,7 @@
 name: faizolanordin
 favicon: null
-layout_spectrum: 0.05140576767735183
-typography_spectrum: 0.2736981362104416
+layout_spectrum: 0.49834
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#DD403A'
   brandStrength: 0.27777152182534337
   lightness: 0.7857328557875007
-  saturation: 0.5540884826332331
-  rhythmicContrast: 0.8708181537222117
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
