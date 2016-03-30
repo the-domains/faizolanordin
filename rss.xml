@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[faizolanordin]]></title>
         <description><![CDATA[faizolanordin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/faizolanordin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 05:25:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 02:48:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/faizolanordin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Once, a student of Rumi asked him a series of questions and his reply I feel is one of the most inspiring replies that we all can learn something from.</p>]]></description>
+            <link>https://thegrid.ai/faizolanordin/8420bb7c-08db-422d-8108-cca91b1f812d/index.html</link>
+            <guid isPermaLink="false">8420bb7c-08db-422d-8108-cca91b1f812d</guid>
+            <pubDate>Wed, 30 Mar 2016 02:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Start Anew!]]></title>
+            <description><![CDATA[<article><h1>Start Anew!</h1><p>Let's begin on a whole new platform!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8117b972fb0f7e90ac6eecd1ddcb4bc70393bfe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/faizolanordin/start-anew/index.html</link>
+            <guid isPermaLink="false">027388ac-8da4-4efa-8b64-c6f9722797ea</guid>
+            <pubDate>Sun, 06 Dec 2015 05:25:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/faizolanordin/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e287dfe8-336d-445d-90f8-e3c7354af243</guid>
             <pubDate>Sun, 06 Dec 2015 05:25:41 GMT</pubDate>
         </item>
